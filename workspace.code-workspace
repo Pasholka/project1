@@ -1,0 +1,34 @@
+{
+  "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_09"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_10"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_11"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_12"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_13"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/04_homework"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_15"
+		},
+		{
+			"path": "../../Downloads/[SW.BAND] [Александр Лущенко] JavaScript v.2.0 (2020)/[SW.BAND] JavaScript v.2.0/code/unit_16"
+		}
+	],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "unit_16"
+  }
+}
